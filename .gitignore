@@ -1,0 +1,5 @@
+/node_modules
+/coverage
+*.DS_Store
+totally_not_my_privateKeys.db*
+test-client
